@@ -5,6 +5,6 @@ Purple
 Yellow
 Green
 Orange
-
+Indigo
 These are the rainbow colors
 And the unicorn
